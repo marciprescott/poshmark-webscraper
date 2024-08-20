@@ -14,7 +14,8 @@ chrome_options.add_experimental_option("detach", True)
 
 
 web = "https://poshmark.com/category/Women"
-path = "/Users/marciprescott/Downloads/chromedriver-mac-arm64 4/chromedriver"
+
+path = "/Users/marciprescott/Downloads/chromedriver-mac-arm64 2/chromedriver"
 
 service = Service(executable_path=path)
 driver = webdriver.Chrome(service=service)
