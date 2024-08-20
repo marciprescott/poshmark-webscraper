@@ -23,7 +23,7 @@ pip install selenium
 3.	Download ChromeDriver:
 Download the appropriate version of ChromeDriver for your operating system from ChromeDriver.
 4.	Move ChromeDriver:
-Move the ChromeDriver executable to a known location, e.g., /Users/marciprescott/Downloads/chromedriver-mac-arm64 4/chromedriver.
+Move the ChromeDriver executable to a known location, e.g., /Users/marciprescott/Downloads/chromedriver-mac-arm64 2/chromedriver.
 
 Usage
 
