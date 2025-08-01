@@ -35,6 +35,7 @@ Execute the Python script:
 python poshmark.py
 
 Notes
+You might have some issues with getting the chromedriver to work if you are on a mac, but if you search the error on google you should find a workaround.  AI might help as well. 
 
 	•	Ensure that your Chrome browser is updated to the same version as your ChromeDriver.
 	•	You can adjust the search term in the script to search for different products.
