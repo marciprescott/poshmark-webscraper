@@ -1,4 +1,4 @@
-Poshmark Search Automation for fashion lovers with limited time! 
+Poshmark Search Automation
 
 This project uses Selenium to automate searching for products on Poshmark. Specifically, it navigates to the women’s category on Poshmark and searches for “Prada Black Brushed Leather loafers size 9”.  It can be done via input, but I hard coded the search. Installation instructions follow. You can refactor the code to take input instead.  
 
